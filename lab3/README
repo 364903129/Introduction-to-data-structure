@@ -1,3 +1,7 @@
 //Haofan Wang
 //hwang108
 // README, Makefile, FileReverse.java
+
+The goal of this assignment is to practice using command line arguments, file input/output, and manipulation
+of Strings in java. File input/output and command line arguments is essential for assignments. Some
+students have had difficulty with HW1 because they were not used to input/output.
