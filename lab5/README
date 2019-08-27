@@ -1,3 +1,9 @@
 //Haofan Wang
 //hwang108
 //README Makefile queue.c queue.h queueClient.c
+
+The goal of this assignment is to learn how to implement ADTs in C, even though it is not an object-oriented
+language. We discuss the typedef and struct commands, header files, information hiding, constructors and
+destructors, and memory management in a separate file called Some_Additional_Background_on_C.pdf.
+You will write a program in C that creates a simple Queue ADT. Please read the file
+Some_Additional_Background_on_C.pdf first, before reading this file
