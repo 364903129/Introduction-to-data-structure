@@ -1,3 +1,8 @@
 # Haofan Wang
 # hwang108
 # HelloUser.java, HelloUser2,java, Makefile1, Makefile2, Makefile3, README
+
+The purpose of this assignment is manyfold: (1) get setup to use git, a revision control system, for all
+assignments (2) learn how to create an executable jar file containing a Java program, and (3) learn to
+automate compilation and other tasks using Makefiles. In addition, you can also optionally learn about the
+unix timeshare.
