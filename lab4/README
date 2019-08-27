@@ -1,3 +1,9 @@
 //Haofan Wang
 //hwang108
 //balanced.c Makefile README test-input.txt more-input.txt test-output.txt more-output.txt
+
+The purpose of this lab assignment is to have you program in the C programming language, including standard
+input-output functions, command line arguments, File IO, and compilation with Makefiles. This file describes
+the Lab4 Assignment. But to do Lab4, you should first read the file Some_Helpful_Background_on_C.pdf.
+Students already familiar with C are probably familiar with most of that material; students who didn’t know C
+but are taking CMPS 12M will recognize that we’re repeating some material in that file.
