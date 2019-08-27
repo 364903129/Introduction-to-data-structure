@@ -1,0 +1,12 @@
+1Washington begins 1
+2Adams begins 2
+3Jefferson begins 2
+4Madison begins 2
+2Monroe begins 3
+1QuincyAdams begins 4
+1Jackson begins 5
+5VanBuren begins 5
+2Harrison begins 6
+1Polk begins 9
+5Tyler begins 9
+4Taylor begins 11
