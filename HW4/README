@@ -1,3 +1,16 @@
 //Haofan Wang
 //hwang108
 //SlugFest.java Node.java Queue.java customer.java README Makefile
+
+Main objective: Simulate 5 Bank Teller lines, similar to the single Bank
+Teller line that we discussed in class, which is also described in Chapter 8 of
+the P&C textbook. Customers come into the SlugFest Bank, and they wait
+on one of the Teller lines. Each input line contains the name of the customer
+(with no spaces in that name), the number of the Teller line that the customer
+waits on (from 1 to 5), the arrival time for the customer, and the number of
+minutes that the customer’s banking transaction takes. Arrival time for a
+customer is just the number of minutes since the simulation started that the
+customer arrived. For example, the input line:
+4 Jefferson 25 8
+means that customer Jefferson arrives 25 minutes after the simulation started,
+waits on Teller 4’s line, and has a banking transaction that takes 8 minutes.
