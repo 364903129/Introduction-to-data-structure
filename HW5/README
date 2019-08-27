@@ -1,3 +1,12 @@
 //Haofan Wang
 //hwang108
 //Bard.java README Makefile Node.java
+
+Main objective: You’re going to do a word analysis of Shakespeare’s works.
+The full text of all the compositions of William Shakespeare is in the file
+Shakespeare.txt, which is in ResourcesHW5 on Piazza. The file is courtesy of
+Project Gutenberg, so it contains some copyright messages.
+Write a Java program that can answer the following queries about the entire
+contents of that file.
+• For any word, how many times did Shakespeare use that word?
+• For any word le
