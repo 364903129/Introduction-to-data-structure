@@ -1,3 +1,13 @@
 //Haofan Wang
 //hwang108
 // README Balanced.java Makefile StackReferenceBased.java Node.java
+
+Main objective: Determine whether any expression with multiple kinds of
+brackets, braces and parentheses is balanced using a reference-based stack.
+You must implement the stack directly yourselves. Using a stack library, or
+JCF stacks, or a list ADT will earn no credit.
+Types of brackets: There are four “parenthesis/bracket” pairs:
+• ( and )
+• [ and ]
+• { and }
+• < and >
