@@ -1,3 +1,13 @@
 //Haofan Wang
 //hwang108
 //README NQueens.java NQueens.jar Makefile test-input.txt
+
+
+Main objective: 
+Solve the n queens problems. You have to place n queens on an n ×
+n chessboard such that no two attack each other. Important: the chessboard should be
+indexed starting from 1, in standard (x, y) coordinates. Thus, (4, 3) refers to the
+square in the 4th column and 3rd row.
+
+We have a slight twist in this assignment. We will take as input the position of
+one queen, and have to generate a solution with a queen in this position.
